@@ -1,6 +1,10 @@
 # To-do_List
 Programa de lista de tarefas.</br>
-Para adicionar algo à lista digite no e precione Enter.</br>
-Desenvolvendo um To-do list em Javascript, HTML e CSS, praticando JSON e localStorage.
+Desenvolvendo um To-do list em Javascript, HTML e CSS, praticando JSON e localStorage.</br>
+<br>
+Para adicionar algo à lista digite no campo de digitação e precione Enter.</br>
 
+<div> <img src="https://user-images.githubusercontent.com/80131918/157563306-987770ea-d606-4438-bbc4-c9d1ac9b057e.png" width="400"></div>
+<br>
+Acesso:
 https://oliver-igor.github.io/To-do_List/
