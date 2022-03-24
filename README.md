@@ -1,6 +1,6 @@
 # To-do_List
 Programa de lista de tarefas.</br>
-Desenvolvendo um To-do list em Javascript, HTML e CSS, praticando JSON e localStorage.</br>
+To-do list desenvolvido em Javascript, HTML e CSS, praticando JSON e localStorage.</br>
 <br>
 Para adicionar algo à lista digite no campo de digitação e precione Enter.</br>
 
